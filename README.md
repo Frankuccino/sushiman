@@ -1,4 +1,4 @@
-# Sushiman — Modular Vanilla HTML, CSS & JavaScript Project
+# Sushiman — Modular Vanilla HTML and CSS with AOS Project
 
 Sushiman is a frontend project focused on building a clean, maintainable, and scalable user interface using **vanilla HTML5, CSS3, and JavaScript**.  
 The project emphasizes professional file organization, clear separation of concerns, and modular styling without relying on frameworks.
@@ -62,7 +62,7 @@ Responsiveness is handled through flexible layouts and media queries rather than
 
 - HTML5 (semantic structure)
 - CSS3 (modular architecture, BEM, variables)
-- JavaScript (lightweight interactivity)
+- Animate on Scroll (AOS) Library (lightweight interactivity)
 
 ---
 
